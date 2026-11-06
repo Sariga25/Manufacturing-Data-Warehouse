@@ -1,4 +1,0 @@
-Production ID,Date,Product Type,Machine ID,Shift,Units Produced,Defects,Production Time Hours,Material Cost Per Unit,Labour Cost Per Hour,Energy Consumption kWh,Operator Count,Maintenance Hours,Down time Hours,Production Volume Cubic Meters,Scrap Rate,Rework Hours,Quality Checks Failed,Average Temperature C,Average Humidity Percent
-1899-12-31,2020-01-01,Automotive,3,Swing,142,3,23.42,38.68,15.38,413.97,1,4.86,1.57,2.34,0.048,1.65,1,22.8,47.2
-1900-01-01,2020-01-02,Textiles,8,Night,170,4,7.51,21.35,25.36,181.16,2,2.51,0.18,1.52,0.03,,1,23.8,37.9
-1900-01-02,2020-01-03,Appliances,11,Swing,182,4,20.58,47.54,16.46,452.15,2,0.34,2.88,0.57,0.026,0.26,0,24.5,56.1
